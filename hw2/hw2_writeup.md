@@ -1,5 +1,4 @@
-# Homework 2 Writeup
-## Alex Johnson
+# Homework 2
 
 Murray's piece on "digital environments" was an interesting look at computer games and simulations from a time when they were in their infancy. I wonder how she would revise this piece looking back at what developed since. The word "procedural" has developed a different meaning in regards to video game development, (referring to when assets are developed at runtime by the the game code,) and I'm sure she we would have some thoughts on games that make heavy use of these "procedural" systems, such as Minecraft.
 
